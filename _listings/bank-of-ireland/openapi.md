@@ -4,7 +4,7 @@ x-collection-name: Bank of Ireland
 x-complete: 1
 info:
   title: Bank of Ireland
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-for-the-bank-of-ireland
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-the-bank-of-ireland-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist

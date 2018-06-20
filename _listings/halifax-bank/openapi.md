@@ -4,7 +4,7 @@ x-collection-name: Halifax Bank
 x-complete: 1
 info:
   title: Halifax Bank
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-for-halifax-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-halifax-bank-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist

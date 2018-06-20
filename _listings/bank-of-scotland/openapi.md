@@ -4,7 +4,7 @@ x-collection-name: Bank of Scotland
 x-complete: 1
 info:
   title: Bank of Scotland
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-for-the-bank-of-scotland
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-the-bank-of-scotland-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist

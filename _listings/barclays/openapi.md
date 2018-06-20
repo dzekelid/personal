@@ -4,7 +4,7 @@ x-collection-name: Barclays
 x-complete: 1
 info:
   title: Barclays
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-for-barclays
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-barclays-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist

@@ -4,7 +4,7 @@ x-collection-name: HSBC
 x-complete: 1
 info:
   title: HSBC
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-for-hsbc
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-hsbc-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist

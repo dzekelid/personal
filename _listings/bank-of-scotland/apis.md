@@ -10,10 +10,10 @@ description: The Bank of Scotland is a commercial and clearing bank based in Edi
   which allow Scottish banks to issue currency.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-scotland-logo.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Personal
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/personal/master/_listings/bank-of-scotland/apis.md
 specificationVersion: "0.14"
 apis:

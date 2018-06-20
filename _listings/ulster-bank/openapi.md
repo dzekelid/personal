@@ -4,7 +4,7 @@ x-collection-name: Ulster Bank
 x-complete: 1
 info:
   title: Ulster Bank
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-for-ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist

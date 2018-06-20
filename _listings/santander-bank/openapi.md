@@ -4,7 +4,7 @@ x-collection-name: Santander Bank
 x-complete: 1
 info:
   title: Santander Bank
-  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapisio-apis-for-santander-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-santander-bank-
   termsOfService: https://www.openbanking.org.uk/open-licence/
   contact:
     name: API Evangelist
