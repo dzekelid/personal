@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Bureau of Justice Statistics
 x-complete: 1
@@ -69,4 +68,3 @@ paths:
       tags:
       - Personal
       - Year
----
